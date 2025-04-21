@@ -37,6 +37,7 @@ The **Plane Management System** is a Java-based application designed to manage a
 
 Upon running the application, you will be presented with a menu of options:
 
+```bash
 *************************************************
                   MENU OPTIONS                 
 *************************************************
@@ -50,4 +51,4 @@ Upon running the application, you will be presented with a menu of options:
 0) Quit
 
 *************************************************
-
+```
