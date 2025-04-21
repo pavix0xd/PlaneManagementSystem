@@ -17,8 +17,8 @@ The **Plane Management System** is a Java-based application designed to manage a
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd PlaneManagementSystem-main
+   git clone https://github.com/pavix0xd/PlaneManagementSystem.git
+   cd PlaneManagementSystem
    ```
 
 2. Compile the Java files:
