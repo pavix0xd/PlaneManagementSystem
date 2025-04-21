@@ -29,9 +29,9 @@ The **Plane Management System** is a Java-based application designed to manage a
 
 3. Run the application:
     
-```bash
-   java PlaneManagement
-   ```
+   ```bash
+      java PlaneManagement
+      ```
 
 ## Usage
 
